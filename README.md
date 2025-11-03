@@ -116,10 +116,15 @@
 ## 🌟 Unique Value Propositions
 
 ✨ **Multi-angle Analysis** - Every story told from 3 perspectives
+
 ✨ **Real-time Updates** - Stay current with Timeline-Live™
+
 ✨ **Local + Global** - See how news affects your region
+
 ✨ **Interactive Graphs** - Visualize story connections
+
 ✨ **Community Driven** - Engage with fellow readers
+
 ✨ **Fully Customizable** - Personalize every aspect
 
 ---
@@ -139,9 +144,13 @@
 ## 📱 Responsive Design
 
 ✅ Mobile-first approach
+
 ✅ Hamburger menu on mobile
+
 ✅ Adaptive grid layouts
+
 ✅ Touch-friendly interfaces
+
 ✅ Optimized for all screen sizes
 
 ---
