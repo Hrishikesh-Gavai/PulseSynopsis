@@ -152,7 +152,7 @@ export const Header = () => {
               <Menu className="h-6 w-6" />
             </Button>
           </SheetTrigger>
-          <SheetContent side="right" className="w-[300px] sm:w-[400px]">
+          <SheetContent side="right" className="w-[300px] sm:w-[400px] flex flex-col">
             <SheetHeader>
               <SheetTitle className="flex items-center gap-2 newspaper-title text-xl">
                 <Newspaper className="h-6 w-6" />
@@ -160,7 +160,7 @@ export const Header = () => {
               </SheetTitle>
             </SheetHeader>
             
-            <div className="mt-8 flex flex-col gap-6">
+            <div className="mt-8 flex flex-col gap-6 overflow-y-auto flex-1 pr-4">
               {/* Navigation Links */}
               <div className="flex flex-col gap-4">
                 <Link 
